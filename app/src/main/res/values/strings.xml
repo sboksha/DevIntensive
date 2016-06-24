@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Сергей Бокша</string>
+    <string name="mobile_number">+7(918)533-54-74</string>
+    <string name="mobile_number_string">Мобильный</string>
+    <string name="email">sboksha@gmail.com</string>
+    <string name="email_string">E-mail</string>
+    <string name="profile_vk">vk.com/sergeyboksha</string>
+    <string name="profile_vk_String">Профиль в VK</string>
+    <string name="github_repo">github.com/sboksha/DevIntensive</string>
+    <string name="github_repo_string">Репозиторий</string>
+    <string name="about">Я много чего могу рассказать</string>
+    <string name="about_string">О себе</string>
+
 </resources>
+
